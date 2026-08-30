@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+
+message: "If you use this research, please cite the article using its DOI."
+
+authors:
+  - family-names: "Pathak"
+    given-names: "Nishil"
+    orcid: "https://orcid.org/0009-0006-9669-1046"
+
+title: "AI Agents Need Operating Systems, Not Just Better Models: Why the Next Frontier of AI Reliability Is a Software Engineering Problem, Not a Modeling One"
+
+doi: "10.31224/7970"
+
+date-released: 2026-08-17
+
+url: "https://doi.org/10.31224/7970"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Pathak"
+      given-names: "Nishil"
+      orcid: "https://orcid.org/0009-0006-9669-1046"
+  title: "AI Agents Need Operating Systems, Not Just Better Models: Why the Next Frontier of AI Reliability Is a Software Engineering Problem, Not a Modeling One"
+  doi: "10.31224/7970"
+  year: 2026
